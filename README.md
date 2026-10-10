@@ -220,7 +220,7 @@ p.note { display: none; }
 <!-- メインコンテンツ -->
 <div id="container">
   <h1>メインのホームページ画像</h1>
-  <p><a href="20261009_00007.jpeg" target="_blank"><img src="20261009_00007.jpeg" alt="サンプル画像" class="responsive-media"></a></p>
+  <p><a href="20261010_00007.jpeg" target="_blank"><img src="20261010_00007.jpeg" alt="サンプル画像" class="responsive-media"></a></p>
 </div>
 
 
