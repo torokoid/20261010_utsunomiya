@@ -212,7 +212,7 @@ p.note { display: none; }
 <!-- オープニング（スプラッシュ画面に写真とタイトルを配置） -->
 <div id="splash">
   <div class="splash-content">
-    <img src="20261009_00019.jpeg" alt="オープニング画像">
+    <img src="20261010_00007.jpeg" alt="オープニング画像">
     <div class="splash-text">最初の一枚は茶色の子犬</div>
   </div>
 </div>
